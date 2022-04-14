@@ -1,0 +1,17 @@
+{
+  "name": "binance_trading",
+  "version": "1.0.0",
+  "description": "Auto trading on Binance exchange",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ngtbtrang",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.22.2",
+    "node-binance-api": "^0.8.5",
+    "sqlite3": "^4.0.3",
+    "winston": "^3.1.0"
+  }
+}
