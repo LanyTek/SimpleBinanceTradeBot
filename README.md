@@ -12,7 +12,7 @@ WE WILL NOT TAKE ANY RESPONSIBILITIES. PLEASE USE THE BOT AT YOUR OWN RISK ON CO
 
 ### Clone this repo
 ```
-    git clone https://github.com/lanytechno/SimpleBinanceTradeBot.git
+    git clone https://github.com/LanyTek/SimpleBinanceTradeBot
 ```
 
 ### Install required libraries
